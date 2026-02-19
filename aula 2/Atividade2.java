@@ -4,7 +4,6 @@ public class Atividade2 {
         int num2 = 6;
         int selec = 4;
         int resultado = 0;
-
         System.out.println("Para alterar a operação, altere 'selec'");
 
         switch (selec) {
