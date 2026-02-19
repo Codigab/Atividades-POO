@@ -21,7 +21,7 @@ public class Atividade2 {
                 System.out.println(resultado);
                 break;
             case 4:
-                resultado = num1/num2;
+                resultado = num1 / num2;
                 System.out.println(resultado);
                 break;
             default:
