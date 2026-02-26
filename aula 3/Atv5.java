@@ -16,6 +16,7 @@ public class Atv5 {
                 }
             System.out.println();
         }
+        sc.close();
         
     }
     

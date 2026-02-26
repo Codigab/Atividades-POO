@@ -39,6 +39,7 @@ public class Aula {
             }
             System.out.println();
         }
+        sc.close();
 
     }
 }
